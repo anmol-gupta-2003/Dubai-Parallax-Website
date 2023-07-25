@@ -60,6 +60,14 @@ header {
     pointer-events: none;
 }
 
+.parallax img#burjkhalifa {
+    position: fixed;
+}
+
+.parallax img#stars {
+    position: fixed;
+}
+
 .sec {
     position: relative;
     padding: 100px;
